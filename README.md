@@ -1,1 +1,1 @@
-![Dao Ngoc Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=daongochieu2810)
+![Dao Ngoc Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=daongochieu2810&show_icons=true&theme=merko&custom_title=daongochieu2810&count_private=true&include_all_commits=true)
